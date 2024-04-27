@@ -21,5 +21,4 @@ public class Employees {
     private String phone_number;
     private String hire_date;
     private double salary;
-    private double commission_pct;
 }
